@@ -6,7 +6,7 @@
   -> O site vai ser implementado utilizando linguagens de marcação (HTML, CSS) e linguagens de programação (JavaScript e Python);
   -> O site deve se comunicar com o banco de dados Workbench;
   -> O site deve ser executado via web e mobile;
-  -> Utilização do framework Bootstrap;
+  -> Utilização do framework Bootstrap e Django;
   
 
 * Regras de Negócio
